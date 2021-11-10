@@ -1,3 +1,4 @@
+//this is program
 import java.util.Scanner;
 
  public class calculator
